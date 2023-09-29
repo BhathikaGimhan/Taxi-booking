@@ -1,6 +1,5 @@
 # Taxi Best Lanka - One-Click Taxi Booking Website
 
-![Taxi Best Lanka Logo](logo.png)
 
 Welcome to the Taxi Best Lanka repository! This project is a simple yet effective taxi booking website that allows users to book a taxi with just one click, which opens a direct WhatsApp message to make the booking process convenient and fast.
 
